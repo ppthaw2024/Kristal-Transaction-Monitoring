@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+datetime
+openpyxl==3.1.5
